@@ -5,8 +5,8 @@ Build a ML algorithm which can make predictions of future(60 minutes) blood gluc
 Diabetic people get early warnings to mitigate the effects(strokes, heart attack etc) of diabetes. These early warning gives them motivation to exercise.
 
 # Dataset
-Distance Activity Data
-Heart Rate Data
-Blood Glucose Data
+* Distance Activity Data
+* Heart Rate Data
+* Blood Glucose Data
 
 # Machine Learning Model Used : Random Forest
